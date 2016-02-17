@@ -9,6 +9,9 @@ import (
 )
 
 func main() {
+	/*
+	   The method below will only scan one word, fmt.Scanln reads space delimited input
+	*/
 	//var s string
 	//fmt.Scanln(&s)
 	//fmt.Println(s)
